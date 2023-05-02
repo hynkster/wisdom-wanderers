@@ -12,6 +12,7 @@ Aufgabe 1 - Backup Lösung
         ..wie lange ihr brauchen würdet, wenn ihr noch einmal von vorne beginnen müsst
         ..wie ihr eure Daten sichern wollt. In der Cloud? Auf einem lokalen Medium?
         ..welches Medium ist geeignet? Auf www.geizhals.at könnt ihr nachsehen, welcher Stick oder welche Festplatte etwas für euch ist.
+        ..welche Cloud ist geeignet?
 
     Tauscht euch untereinander aus. Es gibt viele Lösungen und die einzig falsche, ist kein Backup zu haben.
 
