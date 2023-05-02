@@ -1,0 +1,89 @@
+Guten Morgen im HomeOffice!
+
+Aufgabe 1 - ChatGPT
+
+    Coding hat sich immer weiter entwickelt. Anfangs musste man noch mühsam jeden Befehl in Lochkarten stanzen, 
+    dann kamen erste Keyboards und man konnte Zeichen für Zeichen Code eingeben. Hat man sich vertippt, 
+    musste man die Zeite von Vorne beginnen. Heute haben wir Autovervollständigung, Syntax-Highlightung und vieles mehr, 
+    mit dem uns das Arbeiten erleichtert wird.
+
+    Ein großer nächster Schritt, ist AI gestütztes Coding. 
+
+    Also legt einen ChatGPT Account bei OpenAI (https://chat.openai.com/) an, sofern ihr nicht schon einen habt.
+    Und dann, stellt ChatGPT ein paar Fragen, spielt damit herum.
+    
+    Hier ein paar Vorschläge:
+        ..Fragt welche Sprachen GPT spricht
+        ..Unterhaltet euch mit GPT über Betriebssysteme
+        ..Macht ein Brainstorming, welches Programmierprojekt ihr machen könntet, um mehr über PHP und SQL zu lernen
+        ..Lasst euch etwas über Datenbanken erzählen
+        ..Fragt nach wenn etwas unklar ist oder ihr mehr wissen wollt
+        ..probiert einfach herum
+        ..lasst euch von GPT Tipps geben, wie ihr es besser nutzen könnt
+
+    Bedenkt aber immer. GPT steckt im September 2021 fest. Also kann es sein, dass veraltete oder gar falsche Aussagen kommen.
+    Gerade bei modernen Programmiersprachen, können 2 Jahre einen riesen Unterschied machen. Mit Python kennt sich GPT aus, mit React zu Beispiel nicht.
+    Entsprechend, kontrolliert jede Aussage!
+
+
+Aufgabe 2 - Microsoft Azure
+
+    Microsoft ist mittlerweile einer der größten Provider für Cloud Dienste, neben Amazon und Google. 
+    Damit wir uns im Rahmen des Kurses mit Microsoft Azure und diversen Funktionen auseinandersetzen können, 
+    legt einen eigenen Microsoft Account für den Kurs an.
+
+    Warum ein eigener Account und nicht schon einen bestehenden verwenden?
+    Mit dem neuen Account habt ihr Zugriff auf einige der sonst kostenpflichtigen Funktionen gratis.
+    
+    Zum Beispiel:
+        ..Azure Active Directory
+        ..MS Teams Administration
+        ..Exchange Online
+        ..Azure Virtual Machines
+
+    Also, bewegt euch auf https://www.microsoft.com und legt los.
+    
+    Seht euch ruhig schon einmal um. Microsoft Azure ist riesig und zu Beginn verwirrend, 
+    ihr werdet aber noch sehen wozu wir das brauchen.
+
+    Wer mehr dazu wissen will, kann sich auf https://learn.microsoft.com durchclicken.
+
+
+Aufgabe 3 - Richtiges Googlen
+
+    Auf Google in der Informationsflut das richtige zu finden ist nicht einfach. 
+    Um uns das Leben leichter zu machen, bietet Google einige Parameter an, die man in die Suchleiste eingeben kann.
+
+    Sucht nach sinnvollen Parametern und macht euch einen Schummelzettel für die Zukunft.
+    
+    Mit dem richtigen Google Foo werdet ihr es viel leichter haben zu Recherchieren, 
+    egal ob für den Kurs und den Themenkatalog, Programmierprojekte oder die Arbeit.
+
+
+Aufgabe 4 - Betriebssysteme und Software II
+
+    Den übrigen Tag verwendet ihr bitte um euch mit dem Thema Betriebssysteme und Software zu beschäftigen.
+    
+    Beantwortet dazu folgende Fragen, ausführlich und in eigenen Worten.
+    
+        ..Welche Rolle spielt das Betriebssystem in Computern und Netzwerken?
+
+        ..Was ist Software und welche 2 Hauptarten gibt es?
+        ..Welche Unterarten von Software gibt es?
+        ..Was benötigt man um Software zu entwickeln?
+        ..Wie kann Software lizensiert werden?
+        ..Wie kann ich Software die ich entwickelt habe verbreiten?
+  
+    Klar, könnt ihr das alles aus Wikipedia rauskopieren, das hilft euch aber bei der theoretischen Prüfung nicht weiter, wenn ihr es nicht in eigenen Worten wiedergeben könnt.
+    Bei der nächsten Gelegenheit werden wir die ausgearbeiteten Fragen gemeinsam durchgehen und vergleichen. 
+    Bitte stellt die ausgearbeiteten Fragen in MS Teams (Klassennotizbuch -> Euer Name -> Hausaufgaben) zur Verfügung.
+    
+    Nehmt euch für diese Aufgabe den restlichen Tag Zeit.
+    
+
+Wer das alles erledigt hat, kann sich entweder mit PicoCTF beschäftigen, aber gerne auch einfach drauf los programmieren.
+Fragt ruhig ChatGPT, wenn ihr nicht wisst, was ihr Programmieren sollt. zB so: "Schlage mir 5 kleine Progammierübungen vor um meine PHP und SQL Skills zu verbessern"
+
+Happy Hunting!
+
+Viel Glück!
