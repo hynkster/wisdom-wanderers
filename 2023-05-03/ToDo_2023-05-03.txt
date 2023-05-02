@@ -42,6 +42,7 @@ Aufgabe 2 - Microsoft Azure
         ..Azure Virtual Machines
 
     Also, bewegt euch auf https://www.microsoft.com und legt los.
+    Euer User Konto findet ihr unter https://portal.office.com und die Administration könnt ihr unter https://admin.microsoft.com finden.
     
     Seht euch ruhig schon einmal um. Microsoft Azure ist riesig und zu Beginn verwirrend, 
     ihr werdet aber noch sehen wozu wir das brauchen.
