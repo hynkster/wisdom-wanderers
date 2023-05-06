@@ -2,15 +2,15 @@
 
 ## STS Spring Tool Site
 
-IDE für Java Spring installieren https://download.springsource.com/release/STS4/4.18.1.RELEASE/dist/e4.27/spring-tool-suite-4-4.18.1.RELEASE-e4.27.0-win32.win32.x86_64.self-extracting.jar
+IDE für Java Spring installieren [sts windows download](https://download.springsource.com/release/STS4/4.18.1.RELEASE/dist/e4.27/spring-tool-suite-4-4.18.1.RELEASE-e4.27.0-win32.win32.x86_64.self-extracting.jar)
 
-G9 für STS g9 Database Import 2.9.0 über Marktplace installieren https://www.esito.no/en/products/dbimport/ 
+G9 für STS g9 Database Import 2.9.0 über Marktplace installieren [https://www.esito.no/en/products/dbimport/](https://www.esito.no/en/products/dbimport/)
 
 ## Git
-Git für Windows https://github.com/git-for-windows/git/releases/download/v2.40.1.windows.1/Git-2.40.1-64-bit.exe
+Git für Windows [Git windows download](https://github.com/git-for-windows/git/releases/download/v2.40.1.windows.1/Git-2.40.1-64-bit.exe)
 
 ## Maria SQL Beispiele
-sakila https://dev.mysql.com/doc/sakila/en/sakila-installation.html
+sakila [sakila install](https://dev.mysql.com/doc/sakila/en/sakila-installation.html)
 
 Alle Programme liegen auch im Freigabe Ordner 
 * * *
