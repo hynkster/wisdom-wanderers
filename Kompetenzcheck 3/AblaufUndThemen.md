@@ -1,5 +1,10 @@
 # Kompetenzcheck 3
 
+## Ablauf
+
+Fünf Gruppen zu je zwei Personen. Die Gruppen werden zufällig ausgelost und die Themen zufällig zugewiesen.
+Bei der Recherche gibt es keine Einschränkungen. Einsatz von ChatGPT ist erwünscht. Für die Präsentationen können Powerpoint, Miro, Canva, PDFs und auch Unterstützende Links im Browser verwendet werden. 
+
 ## Objektorientierte und Prozedurale Programmierung
 * Erklärt die Begriffe und vergleicht ihre Eigenheiten.
 * Beschreibt Möglichkeiten der Qualitätssicherung und wie man guten Code erstellt.
