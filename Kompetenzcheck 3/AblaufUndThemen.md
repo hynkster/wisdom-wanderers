@@ -3,7 +3,7 @@
 ## Ablauf
 
 Fünf Gruppen zu je zwei Personen. Die Gruppen werden zufällig ausgelost und die Themen zufällig zugewiesen.
-Bei der Recherche gibt es keine Einschränkungen. Einsatz von ChatGPT ist erwünscht. Für die Präsentationen können Powerpoint, Miro, Canva, PDFs und auch Unterstützende Links im Browser verwendet werden. Die Präsentation sill zwischen 10 und 15 Minuten dauern, Begriffe erklären, Unterschiede aufzeigen und einen Überblick über das Thema geben.
+Bei der Recherche gibt es keine Einschränkungen. Einsatz von ChatGPT ist erwünscht. Für die Präsentationen können Powerpoint, Miro, Canva, PDFs und auch Unterstützende Links im Browser verwendet werden. Die Präsentation soll zwischen 10 und 15 Minuten dauern, Begriffe erklären, Unterschiede aufzeigen und einen Überblick über das Thema geben.
 
 * Pair 1: Kerstin and Tina 
 * Pair 2: Caroline and Anush
