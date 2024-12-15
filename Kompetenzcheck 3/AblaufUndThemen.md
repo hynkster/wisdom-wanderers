@@ -5,11 +5,11 @@
 Fünf Gruppen zu je zwei Personen. Die Gruppen werden zufällig ausgelost und die Themen zufällig zugewiesen.
 Bei der Recherche gibt es keine Einschränkungen. Einsatz von ChatGPT ist erwünscht. Für die Präsentationen können Powerpoint, Miro, Canva, PDFs und auch Unterstützende Links im Browser verwendet werden. Die Präsentation soll zwischen 10 und 15 Minuten dauern, Begriffe erklären, Unterschiede aufzeigen und einen Überblick über das Thema geben.
 
-* Pair 1: Kerstin and Tina 
-* Pair 2: Caroline and Anush
-* Pair 3: Marija and Naomi
-* Pair 4: Nasibeh and Dilan
-* Pair 5: Marianna and Anna
+* Pair 1: # Namen entfernt
+* Pair 2: # Namen entfernt
+* Pair 3: # Namen entfernt
+* Pair 4: # Namen entfernt
+* Pair 5: # Namen entfernt
 
 ## 1 Objektorientierte und Prozedurale Programmierung 
 * Erklärt die Begriffe und vergleicht ihre Eigenheiten.
